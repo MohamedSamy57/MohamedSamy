@@ -28,7 +28,9 @@
 <a href="https://linkedin.com/in/mohamed-samy-ba9ba821b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://mavenanalytics.io/profile/mohamed-samy/211625025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Portfolio" height="30" width="40" /></a>
 </p>
- 
+
+---
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL" width="40" height="40"/> </a>
@@ -43,5 +45,7 @@
   <a href="https://en.wikipedia.org/wiki/Data_warehouse" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2779/2779775.png" alt="Data Warehouse" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1045/1045909.png" alt="ETL" width="40" height="40"/> </a>
 </p>
+
+---
 
 <p align="center">✨ Let's turn your data into decisions! ✨</p>
