@@ -1,13 +1,14 @@
 <h1 align="center">👋 Hey there! I'm Mohamed Samy</h1>
 <h3 align="center">📊 Data Analyst & ⚙️ Data Engineer</h3>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/e35c07be-d5a1-4b3c-8012-d381f958fdc1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65662f31362f65342f65663136653465363862306433636238316536626238613863333235386437652e676966" alt="Data GIF" />
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b0733705-e6f8-471d-932a-6909954b53d0" width="850" alt="Data GIF"/>
+</p>
+
 
 
 - ⚡ About Me:
-  
+  ---
   I'm Mohamed Samy, a passionate data professional who loves turning 📈 complex data into 💡 actionable insights! With expertise in SQL, Python, Power BI, and Excel, I specialize in:
 
   - 🔍 **Data Analysis & Visualization**: Transforming raw data into beautiful dashboards that tell compelling stories
@@ -17,17 +18,17 @@
   - 🔄 **ETL Pipelines**: Designing efficient data extraction, transformation and loading processes
 
   I take pride in uncovering hidden patterns and helping businesses make smarter decisions! 🎯
-
+---
 - 🚀 All of my projects are available at [Maven Analytics Portfolio](https://mavenanalytics.io/profile/Mohamed-Samy/211625025)
 
 - 📬 How to reach me: **mohamedsamyomar55@gmail.com**
-- 
+--- 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-samy-ba9ba821b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://mavenanalytics.io/profile/mohamed-samy/211625025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Portfolio" height="30" width="40" /></a>
 </p>
-
+ 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL" width="40" height="40"/> </a>
